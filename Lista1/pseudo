@@ -1,0 +1,13 @@
+1-Declare 6 variaveis de tipo inteiro, x1, y1, x2, y2, distânciaX e distanciaY.
+2-Escreva na tela para o usuario inserir os valores de x e y dos pontos
+    2.1- Peça o valor do primeiro ponto e atribua na variável x1 e y1
+    2.2- Peça o valor do segundo ponto e atribua na variável x2 e y2
+3 - Calcule a distância entre os pontos
+    3.1- Diminua x1 e x2 
+        3.1.1 - Atribua o resultado a distânciaX
+    3.2- Diminua y1 e y2
+        3.2.1 - Atribua o resultado a distanciaY
+4-Exiba o resultado das distancias
+    4.1 - Escreva o valor da distanciaX
+    4.2 - Escreva o valor da distanciaY
+    
